@@ -138,7 +138,7 @@ nav ul li a {
 }
 .reviews .reviews-card blockquote footer {
   font-size: 16px;
-  color: #414040;
+  opacity: 0.8;
   font-weight: bold;
 }
 
